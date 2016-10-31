@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Test execution complete. Missing database library.";
+	cout << "Tagg Demo v0.0" << endl;
+	cout << "Execution complete. Missing database library." << endl;
 	cin.get();
 
     return 0;
