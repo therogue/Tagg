@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
 	cout << "Test execution complete. Missing database library.";
+	cin.get();
 
     return 0;
 }
