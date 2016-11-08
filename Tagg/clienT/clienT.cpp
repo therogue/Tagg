@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+	cout << "From develop branch" << endl;
 	cout << "Test execution complete. Missing database library.";
 	cin.get();
 
